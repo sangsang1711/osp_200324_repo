@@ -1,2 +1,3 @@
 new_file : local created
 new_file : local modified
+new_file : remote modified
