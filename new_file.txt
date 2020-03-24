@@ -1,1 +1,2 @@
-new_file : local create
+new_file : local created
+new_file : local modified
